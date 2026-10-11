@@ -1,0 +1,6 @@
+{
+  "name": "StudyMate AI",
+  "description": "Interactive learning hub, smart priority task planner, career personalization, and exam deadline tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
